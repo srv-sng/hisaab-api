@@ -2,7 +2,7 @@
 
 ### Overview
 
-The **Hisaab API** is a backend service for the Hisaab web application, built using Flask and MongoDB. This API allows users to manage entries related to shared expenses, authenticate users, and perform various CRUD operations on the data stored in a MongoDB database. It is designed to support a frontend React application that tracks expenses and calculates amounts owed among flatmates.
+The **Hisaab API** is a backend service for the Hisaab web application, built using Flask and MongoDB. This API allows users to manage entries related to shared expenses, authenticate users, and perform various CRUD operations on the data stored in a MongoDB database. It is designed to support a frontend React application that tracks expenses and calculates amount owed among flatmates.
 
 ### Table of Contents
 
